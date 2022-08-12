@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
