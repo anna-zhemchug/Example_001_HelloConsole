@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\bin\Debug\net6.0\Example011_ArrayLine.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\bin\Debug\net6.0\Example011_ArrayLine.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\bin\Debug\net6.0\Example011_ArrayLine.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\bin\Debug\net6.0\Example011_ArrayLine.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\bin\Debug\net6.0\Example011_ArrayLine.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\refint\Example011_ArrayLine.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\Example011_ArrayLine.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example011_ArrayLine\obj\Debug\net6.0\ref\Example011_ArrayLine.dll
