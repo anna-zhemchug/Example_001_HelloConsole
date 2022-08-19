@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\bin\Debug\net6.0\Example008_Intro.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\bin\Debug\net6.0\Example008_Intro.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\bin\Debug\net6.0\Example008_Intro.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\bin\Debug\net6.0\Example008_Intro.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\bin\Debug\net6.0\Example008_Intro.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\refint\Example008_Intro.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\Example008_Intro.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example008_Intro\obj\Debug\net6.0\ref\Example008_Intro.dll
