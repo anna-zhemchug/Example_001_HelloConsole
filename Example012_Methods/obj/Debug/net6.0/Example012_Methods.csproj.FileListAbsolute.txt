@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\bin\Debug\net6.0\Example012_Methods.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\bin\Debug\net6.0\Example012_Methods.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\bin\Debug\net6.0\Example012_Methods.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\bin\Debug\net6.0\Example012_Methods.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\bin\Debug\net6.0\Example012_Methods.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\refint\Example012_Methods.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\Example012_Methods.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Examples\Example012_Methods\obj\Debug\net6.0\ref\Example012_Methods.dll
